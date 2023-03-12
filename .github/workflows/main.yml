@@ -78,4 +78,4 @@ jobs:
         with:
           push: true
           tags: baracuda1975/yamdb:latest
-          docker pull baracuda1975/yamdb:v1.02.2023
+
